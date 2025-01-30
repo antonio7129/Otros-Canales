@@ -1,249 +1,82 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Latin A3Cine" tvg-logo="" group-title="LATINO",Latin A3Cine
-http://supersonictv.live:8080/564532/199620/61708
-#EXTINF:-1 tvg-id="" tvg-name="LATIN Animal Planet" tvg-logo="" group-title="LATINO",LATIN Animal Planet
-http://supersonictv.live:8080/564532/199620/61714
-#EXTINF:-1 tvg-id="" tvg-name="Latin Canal 6 HON" tvg-logo="" group-title="LATINO",Latin Canal 6 HON
-http://supersonictv.live:8080/564532/199620/61747
-#EXTINF:-1 tvg-id="" tvg-name="Latin CBTV Michoacan" tvg-logo="" group-title="LATINO",Latin CBTV Michoacan
-http://supersonictv.live:8080/564532/199620/61754
-#EXTINF:-1 tvg-id="" tvg-name="Latin CCi HD HON" tvg-logo="" group-title="LATINO",Latin CCi HD HON
-http://supersonictv.live:8080/564532/199620/61755
-#EXTINF:-1 tvg-id="" tvg-name="Latin CDM Internacional SD PR" tvg-logo="" group-title="LATINO",Latin CDM Internacional SD PR
-http://supersonictv.live:8080/564532/199620/61756
-#EXTINF:-1 tvg-id="" tvg-name="Latin Centroamerica TV" tvg-logo="" group-title="LATINO",Latin Centroamerica TV
-http://supersonictv.live:8080/564532/199620/61757
-#EXTINF:-1 tvg-id="" tvg-name="Latin Cine Sony" tvg-logo="" group-title="LATINO",Latin Cine Sony
-http://supersonictv.live:8080/564532/199620/61758
-#EXTINF:-1 tvg-id="" tvg-name="Latin Cinelatino" tvg-logo="" group-title="LATINO",Latin Cinelatino
-http://supersonictv.live:8080/564532/199620/61759
-#EXTINF:-1 tvg-id="" tvg-name="Latin CubaMax" tvg-logo="" group-title="LATINO",Latin CubaMax
-http://supersonictv.live:8080/564532/199620/61775
-#EXTINF:-1 tvg-id="" tvg-name="LATIN De Pelicula" tvg-logo="" group-title="LATINO",LATIN De Pelicula
-http://supersonictv.live:8080/564532/199620/61776
-#EXTINF:-1 tvg-id="" tvg-name="LATIN El Trece" tvg-logo="" group-title="LATINO",LATIN El Trece
-http://supersonictv.live:8080/564532/199620/61784
-#EXTINF:-1 tvg-id="" tvg-name="Latin Estrella TV" tvg-logo="" group-title="LATINO",Latin Estrella TV
-http://supersonictv.live:8080/564532/199620/61790
-#EXTINF:-1 tvg-id="" tvg-name="Latin EVTV" tvg-logo="" group-title="LATINO",Latin EVTV
-http://supersonictv.live:8080/564532/199620/61792
-#EXTINF:-1 tvg-id="" tvg-name="LATIN Fox Life" tvg-logo="" group-title="LATINO",LATIN Fox Life
-http://supersonictv.live:8080/564532/199620/61798
-#EXTINF:-1 tvg-id="" tvg-name="Latin HBO Latino" tvg-logo="" group-title="LATINO",Latin HBO Latino
-http://supersonictv.live:8080/564532/199620/61810
-#EXTINF:-1 tvg-id="" tvg-name="Latin History en Espanol" tvg-logo="" group-title="LATINO",Latin History en Espanol
-http://supersonictv.live:8080/564532/199620/61812
-#EXTINF:-1 tvg-id="" tvg-name="Latin HOLA! TV" tvg-logo="" group-title="LATINO",Latin HOLA! TV
-http://supersonictv.live:8080/564532/199620/61813
-#EXTINF:-1 tvg-id="" tvg-name="Latin Pasiones" tvg-logo="" group-title="LATINO",Latin Pasiones
-http://supersonictv.live:8080/564532/199620/61825
-#EXTINF:-1 tvg-id="" tvg-name="Latin RCN Novelas" tvg-logo="" group-title="LATINO",Latin RCN Novelas
-http://supersonictv.live:8080/564532/199620/61830
-#EXTINF:-1 tvg-id="" tvg-name="Latin Red AD Venir Internacional SD BO" tvg-logo="" group-title="LATINO",Latin Red AD Venir Internacional SD BO
-http://supersonictv.live:8080/564532/199620/61832
-#EXTINF:-1 tvg-id="" tvg-name="Latin Supercanal Caribe" tvg-logo="" group-title="LATINO",Latin Supercanal Caribe
-http://supersonictv.live:8080/564532/199620/61837
-#EXTINF:-1 tvg-id="" tvg-name="LATIN Universal Channel" tvg-logo="" group-title="LATINO",LATIN Universal Channel
-http://supersonictv.live:8080/564532/199620/61864
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin Discovery_Familia" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/12/Discovery-Familia.png" group-title="LATINO (USA)",USA Latin Discovery_Familia
-http://supersonictv.live:8080/564532/199620/61886
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin dp_Clasico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/1200px-DP_Cl%C3%A1sico.svg.png" group-title="LATINO (USA)",USA Latin dp_Clasico
-http://supersonictv.live:8080/564532/199620/61887
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin dp_De_Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="LATINO (USA)",USA Latin dp_De_Pelicula
-http://supersonictv.live:8080/564532/199620/61888
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin ElGourmet" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/47/d6/ae/47d6ae83-b636-3888-2a71-3f9a274109f4/source/512x512bb.jpg" group-title="LATINO (USA)",USA Latin ElGourmet
-http://supersonictv.live:8080/564532/199620/61889
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin Fox_Life" tvg-logo="https://img.favpng.com/0/5/2/fox-life-india-fox-international-channels-television-channel-png-favpng-qLqFgr4AyS9mJAW7SPGEFYJK3.jpg" group-title="LATINO (USA)",USA Latin Fox_Life
-http://supersonictv.live:8080/564532/199620/61892
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin GALA" tvg-logo="" group-title="LATINO (USA)",USA Latin GALA
-http://supersonictv.live:8080/564532/199620/61894
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="LATINO (USA)",USA Latin LA 1
-http://supersonictv.live:8080/564532/199620/61896
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin Mega" tvg-logo="https://digitechtricks.com/wp-content/uploads/2017/04/mega.jpg" group-title="LATINO (USA)",USA Latin Mega
-http://supersonictv.live:8080/564532/199620/61901
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin Nat Geo Mundo" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="LATINO (USA)",USA Latin Nat Geo Mundo
-http://supersonictv.live:8080/564532/199620/61903
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin NEOX" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/neox-tv-logo-vector.png" group-title="LATINO (USA)",USA Latin NEOX
-http://supersonictv.live:8080/564532/199620/61904
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin NOVA" tvg-logo="" group-title="LATINO (USA)",USA Latin NOVA
-http://supersonictv.live:8080/564532/199620/61905
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="LATINO (USA)",USA Latin NTN24
-http://supersonictv.live:8080/564532/199620/61906
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin Paramount Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/paramount.png" group-title="LATINO (USA)",USA Latin Paramount Network
-http://supersonictv.live:8080/564532/199620/61909
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin Retro TV" tvg-logo="" group-title="LATINO (USA)",USA Latin Retro TV
-http://supersonictv.live:8080/564532/199620/61910
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin UNIM" tvg-logo="" group-title="LATINO (USA)",USA Latin UNIM
-http://supersonictv.live:8080/564532/199620/61927
-#EXTINF:-1 tvg-id="" tvg-name="USA Latin Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="LATINO (USA)",USA Latin Univision
-http://supersonictv.live:8080/564532/199620/61928
-#EXTINF:-1 tvg-id="" tvg-name="Latin CO Caracol Internacional" tvg-logo="" group-title="LATINO (COLUMBIA)",Latin CO Caracol Internacional
-http://supersonictv.live:8080/564532/199620/11445
-#EXTINF:-1 tvg-id="" tvg-name="Latin CR Teletica 7 HD" tvg-logo="" group-title="LATINO (COSTA RICA)",Latin CR Teletica 7 HD
-http://supersonictv.live:8080/564532/199620/11475
-#EXTINF:-1 tvg-id="" tvg-name="Latin PE Peru Magico" tvg-logo="" group-title="LATINO(PERU)",Latin PE Peru Magico
-http://supersonictv.live:8080/564532/199620/85852
-#EXTINF:-1 tvg-id="" tvg-name="MX Animal Planet HD" tvg-logo="" group-title="MEXICAN",MX Animal Planet HD
-http://supersonictv.live:8080/564532/199620/61224
-#EXTINF:-1 tvg-id="" tvg-name="MX AXN HD" tvg-logo="" group-title="MEXICAN",MX AXN HD
-http://supersonictv.live:8080/564532/199620/61226
-#EXTINF:-1 tvg-id="" tvg-name="MX Azteca 7 HD" tvg-logo="" group-title="MEXICAN",MX Azteca 7 HD
-http://supersonictv.live:8080/564532/199620/61234
-#EXTINF:-1 tvg-id="" tvg-name="MX Cinecanal HD" tvg-logo="" group-title="MEXICAN",MX Cinecanal HD
-http://supersonictv.live:8080/564532/199620/61253
-#EXTINF:-1 tvg-id="" tvg-name="MX Cinemax HD" tvg-logo="" group-title="MEXICAN",MX Cinemax HD
-http://supersonictv.live:8080/564532/199620/61254
-#EXTINF:-1 tvg-id="" tvg-name="MX Discovery Channel HD" tvg-logo="" group-title="MEXICAN",MX Discovery Channel HD
-http://supersonictv.live:8080/564532/199620/61260
-#EXTINF:-1 tvg-id="" tvg-name="MX El Gourmet HD" tvg-logo="" group-title="MEXICAN",MX El Gourmet HD
-http://supersonictv.live:8080/564532/199620/61274
-#EXTINF:-1 tvg-id="" tvg-name="MX Europa Europa" tvg-logo="" group-title="MEXICAN",MX Europa Europa
-http://supersonictv.live:8080/564532/199620/61280
-#EXTINF:-1 tvg-id="" tvg-name="MX Food Network HD" tvg-logo="" group-title="MEXICAN",MX Food Network HD
-http://supersonictv.live:8080/564532/199620/61283
-#EXTINF:-1 tvg-id="" tvg-name="MX FX HD" tvg-logo="" group-title="MEXICAN",MX FX HD
-http://supersonictv.live:8080/564532/199620/61299
-#EXTINF:-1 tvg-id="" tvg-name="MX Golden Edge" tvg-logo="" group-title="MEXICAN",MX Golden Edge
-http://supersonictv.live:8080/564532/199620/61304
-#EXTINF:-1 tvg-id="" tvg-name="MX Golden Plus HD" tvg-logo="" group-title="MEXICAN",MX Golden Plus HD
-http://supersonictv.live:8080/564532/199620/61305
-#EXTINF:-1 tvg-id="" tvg-name="MX History HD" tvg-logo="" group-title="MEXICAN",MX History HD
-http://supersonictv.live:8080/564532/199620/61306
-#EXTINF:-1 tvg-id="" tvg-name="MX Hola TV HD" tvg-logo="" group-title="MEXICAN",MX Hola TV HD
-http://supersonictv.live:8080/564532/199620/61308
-#EXTINF:-1 tvg-id="" tvg-name="MX Lifetime HD" tvg-logo="" group-title="MEXICAN",MX Lifetime HD
-http://supersonictv.live:8080/564532/199620/61312
-#EXTINF:-1 tvg-id="" tvg-name="MX Milenio TV HD" tvg-logo="" group-title="MEXICAN",MX Milenio TV HD
-http://supersonictv.live:8080/564532/199620/61314
-#EXTINF:-1 tvg-id="" tvg-name="MX Paramount Channel HD" tvg-logo="" group-title="MEXICAN",MX Paramount Channel HD
-http://supersonictv.live:8080/564532/199620/61330
-#EXTINF:-1 tvg-id="" tvg-name="MX Sony Channel HD" tvg-logo="" group-title="MEXICAN",MX Sony Channel HD
-http://supersonictv.live:8080/564532/199620/61333
-#EXTINF:-1 tvg-id="" tvg-name="MX Space HD" tvg-logo="" group-title="MEXICAN",MX Space HD
-http://supersonictv.live:8080/564532/199620/61334
-#EXTINF:-1 tvg-id="" tvg-name="MX Star TVE HD" tvg-logo="" group-title="MEXICAN",MX Star TVE HD
-http://supersonictv.live:8080/564532/199620/61335
-#EXTINF:-1 tvg-id="" tvg-name="MX Studio Universal HD" tvg-logo="" group-title="MEXICAN",MX Studio Universal HD
-http://supersonictv.live:8080/564532/199620/61336
-#EXTINF:-1 tvg-id="" tvg-name="MX TNT Series HD" tvg-logo="" group-title="MEXICAN",MX TNT Series HD
-http://supersonictv.live:8080/564532/199620/61349
-#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP LAS ESTRELLAS" tvg-logo="" group-title="MEXICAN",MX (HD) TP LAS ESTRELLAS
-http://supersonictv.live:8080/564532/199620/61369
-#EXTINF:-1 tvg-id="" tvg-name="[ES] LA 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA1HD.png" group-title="SPAIN",[ES] LA 1 HD
-http://supersonictv.live:8080/564532/199620/85857
-#EXTINF:-1 tvg-id="" tvg-name="[ES] LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="SPAIN",[ES] LA 2 HD
-http://supersonictv.live:8080/564532/199620/85858
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ANTENA 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="SPAIN",[ES] ANTENA 3 HD
-http://supersonictv.live:8080/564532/199620/85859
-#EXTINF:-1 tvg-id="" tvg-name="[ES] LA SEXTA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LASEXTAHD.png" group-title="SPAIN",[ES] LA SEXTA HD
-http://supersonictv.live:8080/564532/199620/85862
-#EXTINF:-1 tvg-id="" tvg-name="[ES] FDF" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FDF.png" group-title="SPAIN",[ES] FDF
-http://supersonictv.live:8080/564532/199620/85863
-#EXTINF:-1 tvg-id="" tvg-name="[ES] NEOX" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NEOX.png" group-title="SPAIN",[ES] NEOX
-http://supersonictv.live:8080/564532/199620/85867
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CLAN TVE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANTVE.png" group-title="SPAIN",[ES] CLAN TVE
-http://supersonictv.live:8080/564532/199620/85873
-#EXTINF:-1 tvg-id="" tvg-name="[ES] BOING" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BOING.png" group-title="SPAIN",[ES] BOING
-http://supersonictv.live:8080/564532/199620/85876
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL PANDA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALPANDA.png" group-title="SPAIN",[ES] CANAL PANDA
-http://supersonictv.live:8080/564532/199620/85877
-#EXTINF:-1 tvg-id="" tvg-name="[ES] AMC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AMCHD.png" group-title="SPAIN",[ES] AMC HD
-http://supersonictv.live:8080/564532/199620/85881
-#EXTINF:-1 tvg-id="" tvg-name="[ES] AXN HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="SPAIN",[ES] AXN HD
-http://supersonictv.live:8080/564532/199620/85883
-#EXTINF:-1 tvg-id="" tvg-name="[ES] AXN WHITE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="SPAIN",[ES] AXN WHITE HD
-http://supersonictv.live:8080/564532/199620/85884
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CALLE 13 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CALLE13HD.png" group-title="SPAIN",[ES] CALLE 13 HD
-http://supersonictv.live:8080/564532/199620/85885
-#EXTINF:-1 tvg-id="" tvg-name="[ES] COSMO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/COSMOHD.png" group-title="SPAIN",[ES] COSMO HD
-http://supersonictv.live:8080/564532/199620/85886
-#EXTINF:-1 tvg-id="" tvg-name="[ES] FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/SPAIN/FOXLIFEHD.png" group-title="SPAIN",[ES] FOX LIFE HD
-http://supersonictv.live:8080/564532/199620/85888
-#EXTINF:-1 tvg-id="" tvg-name="[ES] HOLLYWOOD HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HOLLYWOODHD.png" group-title="SPAIN",[ES] HOLLYWOOD HD
-http://supersonictv.live:8080/564532/199620/85889
-#EXTINF:-1 tvg-id="" tvg-name="[ES] COMEDY CENTRAL HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/comedycentralhd.png" group-title="SPAIN",[ES] COMEDY CENTRAL HD
-http://supersonictv.live:8080/564532/199620/85890
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. ACCION HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.ACCI%A9NHD.png" group-title="SPAIN",[ES] M. ACCION HD
-http://supersonictv.live:8080/564532/199620/85891
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. CINE ESP" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.CINE-ESPA%C6OL.png" group-title="SPAIN",[ES] M. CINE ESP
-http://supersonictv.live:8080/564532/199620/85892
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M.CineDoc&Roll" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/Cinedocroll.png" group-title="SPAIN",[ES] M.CineDoc&Roll
-http://supersonictv.live:8080/564532/199620/85893
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. COMEDIA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.COMEDIA.png" group-title="SPAIN",[ES] M. COMEDIA HD
-http://supersonictv.live:8080/564532/199620/85894
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. DISNEY" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DISNEY.png" group-title="SPAIN",[ES] M. DISNEY
-http://supersonictv.live:8080/564532/199620/85895
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. ESTRENOS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.ESTRENOS.png" group-title="SPAIN",[ES] M. ESTRENOS HD
-http://supersonictv.live:8080/564532/199620/85896
-#EXTINF:-1 tvg-id="" tvg-name="[ES] SYFY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SYFY.png" group-title="SPAIN",[ES] SYFY HD
-http://supersonictv.live:8080/564532/199620/85897
-#EXTINF:-1 tvg-id="" tvg-name="[ES] TCM HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TMCHD.png" group-title="SPAIN",[ES] TCM HD
-http://supersonictv.live:8080/564532/199620/85898
-#EXTINF:-1 tvg-id="" tvg-name="[ES] TNT HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TNTHD.png" group-title="SPAIN",[ES] TNT HD
-http://supersonictv.live:8080/564532/199620/85899
-#EXTINF:-1 tvg-id="" tvg-name="[ES] BLAZE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BLAZE.png" group-title="SPAIN",[ES] BLAZE
-http://supersonictv.live:8080/564532/199620/85912
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL COCINA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALCOCINA.png" group-title="SPAIN",[ES] CANAL COCINA
-http://supersonictv.live:8080/564532/199620/85913
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL DECASA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALDECASA.png" group-title="SPAIN",[ES] CANAL DECASA
-http://supersonictv.live:8080/564532/199620/85914
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CRIMEN Y INVES" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CRIMENYINVES.png" group-title="SPAIN",[ES] CRIMEN Y INVES
-http://supersonictv.live:8080/564532/199620/85916
-#EXTINF:-1 tvg-id="" tvg-name="[ES] #0 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/OHD.png" group-title="SPAIN",[ES] #0 HD
-http://supersonictv.live:8080/564532/199620/85918
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ARAGON" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="SPAIN",[ES] ARAGON
-http://supersonictv.live:8080/564532/199620/85919
-#EXTINF:-1 tvg-id="" tvg-name="[ES] BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="SPAIN",[ES] BE MAD
-http://supersonictv.live:8080/564532/199620/85920
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL ODISEA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALODISEA.png" group-title="SPAIN",[ES] CANAL ODISEA
-http://supersonictv.live:8080/564532/199620/85921
-#EXTINF:-1 tvg-id="" tvg-name="[ES] CLASSICA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CLASSICA.png" group-title="SPAIN",[ES] CLASSICA
-http://supersonictv.live:8080/564532/199620/85922
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M.DRAMA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DRAMA.png" group-title="SPAIN",[ES] M.DRAMA HD
-http://supersonictv.live:8080/564532/199620/85923
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M. SERIES HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIES.png" group-title="SPAIN",[ES] M. SERIES HD
-http://supersonictv.live:8080/564532/199620/85924
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M.SERIESMANIA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIESXTRA.png" group-title="SPAIN",[ES] M.SERIESMANIA HD
-http://supersonictv.live:8080/564532/199620/85925
-#EXTINF:-1 tvg-id="" tvg-name="[ES] M.CINEDOC&ROLL HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.XTRA.png" group-title="SPAIN",[ES] M.CINEDOC&ROLL HD
-http://supersonictv.live:8080/564532/199620/85926
-#EXTINF:-1 tvg-id="" tvg-name="[ES] MEZZO LIVE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MEZZOLIVEHD.png" group-title="SPAIN",[ES] MEZZO LIVE HD
-http://supersonictv.live:8080/564532/199620/85927
-#EXTINF:-1 tvg-id="" tvg-name="[ES] MTV ESP" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTVROCKS.png" group-title="SPAIN",[ES] MTV ESP
-http://supersonictv.live:8080/564532/199620/85928
-#EXTINF:-1 tvg-id="" tvg-name="[ES] DISCOVERY" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISCOVERY.png" group-title="SPAIN",[ES] DISCOVERY
-http://supersonictv.live:8080/564532/199620/85929
-#EXTINF:-1 tvg-id="" tvg-name="[ES] HISTORIA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HISTORIA.png" group-title="SPAIN",[ES] HISTORIA
-http://supersonictv.live:8080/564532/199620/85930
-#EXTINF:-1 tvg-id="" tvg-name="[ES] NAT GEO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOHD.png" group-title="SPAIN",[ES] NAT GEO HD
-http://supersonictv.live:8080/564532/199620/85931
-#EXTINF:-1 tvg-id="" tvg-name="[ES] NAT GEO WILD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOWILD.png" group-title="SPAIN",[ES] NAT GEO WILD
-http://supersonictv.live:8080/564532/199620/85932
-#EXTINF:-1 tvg-id="" tvg-name="[ES] PARAMOUNT" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/PARAMOUNT.png" group-title="SPAIN",[ES] PARAMOUNT
-http://supersonictv.live:8080/564532/199620/85933
-#EXTINF:-1 tvg-id="" tvg-name="[ES] VH1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/VH1.png" group-title="SPAIN",[ES] VH1
-http://supersonictv.live:8080/564532/199620/85934
-#EXTINF:-1 tvg-id="" tvg-name="[ES] VIAJAR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/VIAJARHD.png" group-title="SPAIN",[ES] VIAJAR HD
-http://supersonictv.live:8080/564532/199620/85935
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 1
-http://supersonictv.live:8080/564532/199620/85936
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 2" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 2
-http://supersonictv.live:8080/564532/199620/85937
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 3" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 3
-http://supersonictv.live:8080/564532/199620/85938
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 4" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 4
-http://supersonictv.live:8080/564532/199620/85939
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 5" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 5
-http://supersonictv.live:8080/564532/199620/85940
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 6" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 6
-http://supersonictv.live:8080/564532/199620/85941
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 7" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 7
-http://supersonictv.live:8080/564532/199620/85942
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 8" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 8
-http://supersonictv.live:8080/564532/199620/85943
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 9" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 9
-http://supersonictv.live:8080/564532/199620/85944
-#EXTINF:-1 tvg-id="" tvg-name="[ES] ALQUILER 10" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="SPAIN",[ES] ALQUILER 10
-http://supersonictv.live:8080/564532/199620/85945
-
+#EXTINF:-1,[MX]_AMC HD
+http://fullahd.com:8000/EmericB/0767190109/2711
+#EXTINF:-1,[MX]_AXN
+http://fullahd.com:8000/EmericB/0767190109/2710
+#EXTINF:-1,[MX]_AZTECA 7
+http://fullahd.com:8000/EmericB/0767190109/2707
+#EXTINF:-1,[MX]_Azteca Cinema
+http://fullahd.com:8000/EmericB/0767190109/2708
+#EXTINF:-1,[MX]_Azteca Uno
+http://fullahd.com:8000/EmericB/0767190109/2709
+#EXTINF:-1,[MX]_Canal Once
+http://fullahd.com:8000/EmericB/0767190109/2701
+#EXTINF:-1,[MX]_Cartoon Network 
+http://fullahd.com:8000/EmericB/0767190109/2700
+#EXTINF:-1,[MX]_CINEMAX
+http://fullahd.com:8000/EmericB/0767190109/2698
+#EXTINF:-1,[MX]_DISCOVERY TURBO
+http://fullahd.com:8000/EmericB/0767190109/2694
+#EXTINF:-1,[MX]_Discovery H&H HD
+http://fullahd.com:8000/EmericB/0767190109/2691
+#EXTINF:-1,[MX]_DISCOVERY WORLD HD
+http://fullahd.com:8000/EmericB/0767190109/2690
+#EXTINF:-1,[MX]_DISNEY CHANNEL
+http://fullahd.com:8000/EmericB/0767190109/2689
+#EXTINF:-1,[MX]_DISNEY JR
+http://fullahd.com:8000/EmericB/0767190109/2688
+#EXTINF:-1,[MX]_DISNEY XD
+http://fullahd.com:8000/EmericB/0767190109/2687
+#EXTINF:-1,[MX]_E! ENTERTAIMENT
+http://fullahd.com:8000/EmericB/0767190109/2686
+#EXTINF:-1,[MX]_UNIVERSAL REALITY HD
+http://fullahd.com:8000/EmericB/0767190109/2681
+#EXTINF:-1,[MX]_UNIVERSAL CINEMA HD
+http://fullahd.com:8000/EmericB/0767190109/2680
+#EXTINF:-1,[MX]_UNIVERSAL CRIME HD
+http://fullahd.com:8000/EmericB/0767190109/2679
+#EXTINF:-1,[MX]_UNIVERSAL HD
+http://fullahd.com:8000/EmericB/0767190109/2677
+#EXTINF:-1,[MX]_UNIVERSAL PREMIERE HD
+http://fullahd.com:8000/EmericB/0767190109/2703
+#EXTINF:-1,[MX]_H2
+http://fullahd.com:8000/EmericB/0767190109/2658
+#EXTINF:-1,[MX]_HISTORY HD
+http://fullahd.com:8000/EmericB/0767190109/2670
+#EXTINF:-1,[MX]_ISAT
+http://fullahd.com:8000/EmericB/0767190109/2668
+#EXTINF:-1,[MX]_LIFE TIME
+http://fullahd.com:8000/EmericB/0767190109/2667
+#EXTINF:-1,[MX]_MAS CHIC
+http://fullahd.com:8000/EmericB/0767190109/2651
+#EXTINF:-1,[MX]_NAT GEO
+http://fullahd.com:8000/EmericB/0767190109/2663
+#EXTINF:-1,[MX]_NAT GEO KIDS
+http://fullahd.com:8000/EmericB/0767190109/2704
+#EXTINF:-1,[MX]_NAT GEO WILD
+http://fullahd.com:8000/EmericB/0767190109/2664
+#EXTINF:-1,[MX]_Proyecto 40
+http://fullahd.com:8000/EmericB/0767190109/2659
+#EXTINF:-1,[MX]_SyFy HD
+http://fullahd.com:8000/EmericB/0767190109/2655
+#EXTINF:-1,[MX]_TeleCine Action HD
+http://fullahd.com:8000/EmericB/0767190109/2699
+#EXTINF:-1,[MX]_TLnovelas
+http://fullahd.com:8000/EmericB/0767190109/2649
+#EXTINF:-1,[MX]_TNT
+http://fullahd.com:8000/EmericB/0767190109/2648
+#EXTINF:-1,[ES]_SYFY HD
+http://fullahd.com:8000/IyadhB/94099491/532
+#EXTINF:-1,[ES]_TCM HD
+http://fullahd.com:8000/IyadhB/94099491/2849
+#EXTINF:-1,[ES]_AXN HD
+http://fullahd.com:8000/IyadhB/94099491/438
+#EXTINF:-1,[ES]_AXN WHITE HD
+http://fullahd.com:8000/IyadhB/94099491/2845
+#EXTINF:-1,TNT Series HD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460169
+#EXTINF:-1,7.6 TNT
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460135
+#EXTINF:-1,07.8AXN
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460113
