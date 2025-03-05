@@ -1,82 +1,68 @@
 #EXTM3U
 
-#EXTINF:-1,[MX]_AMC HD
-http://fullahd.com:8000/EmericB/0767190109/2711
-#EXTINF:-1,[MX]_AXN
-http://fullahd.com:8000/EmericB/0767190109/2710
-#EXTINF:-1,[MX]_AZTECA 7
-http://fullahd.com:8000/EmericB/0767190109/2707
-#EXTINF:-1,[MX]_Azteca Cinema
-http://fullahd.com:8000/EmericB/0767190109/2708
-#EXTINF:-1,[MX]_Azteca Uno
-http://fullahd.com:8000/EmericB/0767190109/2709
-#EXTINF:-1,[MX]_Canal Once
-http://fullahd.com:8000/EmericB/0767190109/2701
-#EXTINF:-1,[MX]_Cartoon Network 
-http://fullahd.com:8000/EmericB/0767190109/2700
-#EXTINF:-1,[MX]_CINEMAX
-http://fullahd.com:8000/EmericB/0767190109/2698
-#EXTINF:-1,[MX]_DISCOVERY TURBO
-http://fullahd.com:8000/EmericB/0767190109/2694
-#EXTINF:-1,[MX]_Discovery H&H HD
-http://fullahd.com:8000/EmericB/0767190109/2691
-#EXTINF:-1,[MX]_DISCOVERY WORLD HD
-http://fullahd.com:8000/EmericB/0767190109/2690
-#EXTINF:-1,[MX]_DISNEY CHANNEL
-http://fullahd.com:8000/EmericB/0767190109/2689
-#EXTINF:-1,[MX]_DISNEY JR
-http://fullahd.com:8000/EmericB/0767190109/2688
-#EXTINF:-1,[MX]_DISNEY XD
-http://fullahd.com:8000/EmericB/0767190109/2687
-#EXTINF:-1,[MX]_E! ENTERTAIMENT
-http://fullahd.com:8000/EmericB/0767190109/2686
-#EXTINF:-1,[MX]_UNIVERSAL REALITY HD
-http://fullahd.com:8000/EmericB/0767190109/2681
-#EXTINF:-1,[MX]_UNIVERSAL CINEMA HD
-http://fullahd.com:8000/EmericB/0767190109/2680
-#EXTINF:-1,[MX]_UNIVERSAL CRIME HD
-http://fullahd.com:8000/EmericB/0767190109/2679
-#EXTINF:-1,[MX]_UNIVERSAL HD
-http://fullahd.com:8000/EmericB/0767190109/2677
-#EXTINF:-1,[MX]_UNIVERSAL PREMIERE HD
-http://fullahd.com:8000/EmericB/0767190109/2703
-#EXTINF:-1,[MX]_H2
-http://fullahd.com:8000/EmericB/0767190109/2658
-#EXTINF:-1,[MX]_HISTORY HD
-http://fullahd.com:8000/EmericB/0767190109/2670
-#EXTINF:-1,[MX]_ISAT
-http://fullahd.com:8000/EmericB/0767190109/2668
-#EXTINF:-1,[MX]_LIFE TIME
-http://fullahd.com:8000/EmericB/0767190109/2667
-#EXTINF:-1,[MX]_MAS CHIC
-http://fullahd.com:8000/EmericB/0767190109/2651
-#EXTINF:-1,[MX]_NAT GEO
-http://fullahd.com:8000/EmericB/0767190109/2663
-#EXTINF:-1,[MX]_NAT GEO KIDS
-http://fullahd.com:8000/EmericB/0767190109/2704
-#EXTINF:-1,[MX]_NAT GEO WILD
-http://fullahd.com:8000/EmericB/0767190109/2664
-#EXTINF:-1,[MX]_Proyecto 40
-http://fullahd.com:8000/EmericB/0767190109/2659
-#EXTINF:-1,[MX]_SyFy HD
-http://fullahd.com:8000/EmericB/0767190109/2655
-#EXTINF:-1,[MX]_TeleCine Action HD
-http://fullahd.com:8000/EmericB/0767190109/2699
-#EXTINF:-1,[MX]_TLnovelas
-http://fullahd.com:8000/EmericB/0767190109/2649
-#EXTINF:-1,[MX]_TNT
-http://fullahd.com:8000/EmericB/0767190109/2648
-#EXTINF:-1,[ES]_SYFY HD
-http://fullahd.com:8000/IyadhB/94099491/532
-#EXTINF:-1,[ES]_TCM HD
-http://fullahd.com:8000/IyadhB/94099491/2849
-#EXTINF:-1,[ES]_AXN HD
-http://fullahd.com:8000/IyadhB/94099491/438
-#EXTINF:-1,[ES]_AXN WHITE HD
-http://fullahd.com:8000/IyadhB/94099491/2845
+#EXTINF:-1,A&E HD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371311
+#EXTINF:-1,AMC
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371312
+#EXTINF:-1,AXN
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371315
+#EXTINF:-1,CineCanal
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371342
+#EXTINF:-1,CineMax
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371343
+#EXTINF:-1,Golden
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371395
+#EXTINF:-1,Multicinema
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371427
+#EXTINF:-1,Multipremier
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371429
+#EXTINF:-1,Paramount
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371436
+#EXTINF:-1,Studio Universal
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371452
+#EXTINF:-1,TCM
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371457
+#EXTINF:-1,TNT
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371462
+#EXTINF:-1,TNT Series
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371464
 #EXTINF:-1,TNT Series HD
-http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460169
-#EXTINF:-1,7.6 TNT
-http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460135
-#EXTINF:-1,07.8AXN
-http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460113
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371465
+#EXTINF:-1,Universal
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/371491
+#EXTINF:-1,Cinema DC Universe HD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405835
+#EXTINF:-1,MyTime movie network Mexico
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405840
+#EXTINF:-1,CINEMA VIP 04 FHD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405862
+#EXTINF:-1,CINEMA VIP 05 FHD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405863
+#EXTINF:-1,CINEMA VIP 06 FHD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405864
+#EXTINF:-1,CINEMA VIP 08 FHD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405866
+#EXTINF:-1,CINEMA VIP 10 FHD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405868
+#EXTINF:-1,CINEMA VIP 13 FHD
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/405871
+#EXTINF:-1,03.6Cinemax
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460094
+#EXTINF:-1,03.7FX
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460095
+#EXTINF:-1,05.2Sony
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460101
+#EXTINF:-1,Cinecanal
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460144
+#EXTINF:-1,Claro Cinema
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/460146
+#EXTINF:-1,CINEMAX OP1
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/513119
+#EXTINF:-1,CINEMAX OP2
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/513120
+#EXTINF:-1,CINEMAX OP3
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/513121
+#EXTINF:-1,24/7 | Escobar: el patron del mal
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/513571
+#EXTINF:-1,Costa Rica | Extreme TV
+http://tvlatino.club:2082/Netplusgo011/ygWNTaEBhGyH/513849
